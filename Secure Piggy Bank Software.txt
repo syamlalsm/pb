@@ -1,0 +1,22 @@
+Secure Piggy Bank Software
+
+Our Piggy Bank Software is a user-friendly, secure, and feature-rich application designed for individuals to manage their savings efficiently. Authorized users can create accounts, deposit, withdraw, and check balances while enjoying robust security and data privacy measures.
+
+Key Features:
+
+1. User Account Management: Create, manage, and secure individual accounts.
+2. Transaction Management: Deposit, withdraw, and check balances.
+3. Strong Security: Authorized access with username/password authentication.
+4. Admin Module: Comprehensive privileges for administrators.
+5. User History: Track current transaction history.
+6. Login Window: Secure access with correct username/password.
+
+Benefits:
+
+1. Secure Savings: Protect your money with robust security measures.
+2. Easy Management: Simplify savings tracking and transactions.
+3. Personalized Accounts: Create and manage individual accounts.
+4. Transparency: View transaction history and track spending.
+5. Administrative Control: Monitor and manage all accounts.
+6. Data Privacy: Ensure confidentiality of user information.
+7. Convenience: Accessible and user-friendly interface.
