@@ -56,7 +56,7 @@ class User:
         if f==1:
             print("sorry username is already exist please enter new one")
         else:
-            print("'Username is available'... :)")
+            print("'Username is availablee'... :)")
             self.full_name = input("ENTER YOUR FULL NAME: ")
             self.age = int(input("ENTER YOUR AGE: "))
             if self.age<18 or self.age>70:
